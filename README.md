@@ -70,7 +70,7 @@ Je suis un développeur polyvalent avec une solide formation en développement w
 | 🧠 NLP Sentiment Analysis                  | Python, DistilRoBERTa, Streamlit                       | [GitHub](https://github.com/Bouchask/...)                             |
 | 👁️ Détection & Clustering Visages         | OpenCV, InsightFace, HDBSCAN                           | [GitHub](https://github.com/Bouchask/...)                             |
 | 🤖 Smart Detection Fingers & Emotions      | DeepFace, MediaPipe                                    | [GitHub](https://github.com/Bouchask/...)                             |
-| 📈 Trading Prediction NASDAQ 100           | Python, TensorFlow, Streamlit, yfinance                | [Voir sur GitHub](https://github.com/Bouchask/prediction_nasdaq)     |
+| 📈 Trading Prediction NASDAQ 100           | Python, TensorFlow, Streamlit, yfinance                | [GitHub](https://github.com/Bouchask/prediction_nasdaq)     |
 
 ---
 
