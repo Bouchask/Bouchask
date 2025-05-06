@@ -32,6 +32,7 @@ Je suis un développeur polyvalent avec une solide formation en développement w
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### 🧠 Intelligence Artificielle & Data Science
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -62,13 +63,14 @@ Je suis un développeur polyvalent avec une solide formation en développement w
 
 ## 📁 Projets Principaux
 
-| Projet | Tech | Lien |
-|-------|------|------|
-| 🎮 **3D Game with AI** | Three.js, React, Reinforcement Learning | [GitHub](https://github.com/Bouchask/3d-game-ai) |
-| 📚 **Edu Course Network** | React, Supabase, Node.js | [GitHub](https://github.com/Bouchask/edu-course-network) |
-| 🧠 **NLP Sentiment Analysis** | Python, DistilRoBERTa, Streamlit | [GitHub](https://github.com/Bouchask/nlp_sentiment_project) |
-| 👁️ **Détection & Clustering Visages** | OpenCV, InsightFace, HDBSCAN | [GitHub](https://github.com/Bouchask/D-tection-et-de-Clustering-des-Visages) |
-| 🤖 **Smart Detection Fingers & Emotions** | DeepFace, MediaPipe | [GitHub](https://github.com/Bouchask/detection_face) |
+| 🧪 Projet                                   | 💡 Technologies                                        | 🔗 Lien                                                                 |
+|--------------------------------------------|--------------------------------------------------------|------------------------------------------------------------------------|
+| 🎮 3D Game with AI                          | Three.js, React, Reinforcement Learning                | [GitHub](https://github.com/Bouchask/...)                             |
+| 📚 Edu Course Network                      | React, Supabase, Node.js                               | [GitHub](https://github.com/Bouchask/...)                             |
+| 🧠 NLP Sentiment Analysis                  | Python, DistilRoBERTa, Streamlit                       | [GitHub](https://github.com/Bouchask/...)                             |
+| 👁️ Détection & Clustering Visages         | OpenCV, InsightFace, HDBSCAN                           | [GitHub](https://github.com/Bouchask/...)                             |
+| 🤖 Smart Detection Fingers & Emotions      | DeepFace, MediaPipe                                    | [GitHub](https://github.com/Bouchask/...)                             |
+| 📈 Trading Prediction NASDAQ 100           | Python, TensorFlow, Streamlit, yfinance                | [Voir sur GitHub](https://github.com/Bouchask/prediction_nasdaq)     |
 
 ---
 
