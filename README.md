@@ -65,8 +65,6 @@ Je suis un développeur polyvalent avec une solide formation en développement w
 
 | 🧪 Projet                                   | 💡 Technologies                                        | 🔗 Lien                                                                 |
 |--------------------------------------------|--------------------------------------------------------|------------------------------------------------------------------------|
-| 🎮 3D Game with AI                          | Three.js, React, Reinforcement Learning                | [GitHub](https://github.com/Bouchask/...)                             |
-| 📚 Edu Course Network                      | React, Supabase, Node.js                               | [GitHub](https://github.com/Bouchask/...)                             |
 | 🧠 NLP Sentiment Analysis                  | Python, DistilRoBERTa, Streamlit                       | [GitHub](https://github.com/Bouchask/...)                             |
 | 👁️ Détection & Clustering Visages         | OpenCV, InsightFace, HDBSCAN                           | [GitHub](https://github.com/Bouchask/...)                             |
 | 🤖 Smart Detection Fingers & Emotions      | DeepFace, MediaPipe                                    | [GitHub](https://github.com/Bouchask/...)                             |
