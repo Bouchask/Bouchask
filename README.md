@@ -1,119 +1,151 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk1cGVsdDZmdG45dHc3bHJjZnZwc3hpY3Bpc3hpNmY4aXlkaGZ1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkAZjU28I/giphy.gif" width="150" />
-  <h1><b>Hi there, I'm Yahya Bouchak 👋</b></h1>
-  <h3>AI & Big Data Developer</h3>
-  <p>Architecting intelligent systems to transform complex data into real-world impact.</p>
 
-  <p>
-    <a href="https://portfolio-app-delta-eight.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="https://linkedin.com/in/yahyabouchak" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:mr.bouchakyahya@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk1cGVsdDZmdG45dHc3bHJjZnZwc3hpY3Bpc3hpNmY4aXlkaGZ1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkAZjU28I/giphy.gif" width="120" />
+
+# Yahya Bouchak
+
+**AI Engineering Student · Full-Stack Developer · Big Data Enthusiast**
+
+*Building intelligent systems where data meets real-world impact.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-app-delta-eight.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahyabouchak)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bouchask)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.bouchakyahya@gmail.com)
+
 </div>
 
 ---
 
-### 🚀 My Tech Stack & Tooling
+## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td align="center">
-      <strong>AI & Machine Learning</strong><br><br>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-    </td>
-    <td align="center">
-      <strong>Computer Vision & NLP</strong><br><br>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-      <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/BERT-000000?style=for-the-badge&logo=google&logoColor=white" />
-      <img src="https://img.shields.io/badge/RoBERTa-3B5998?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <strong>Big Data & Engineering</strong><br><br>
-      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=hadoop&logoColor=black" />
-      <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black" />
-      <img src="https://img.shields.io/badge/Flume-B21A2C?style=for-the-badge&logo=apache-flume&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Web & Backend</strong><br><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </td>
-    <td align="center">
-      <strong>Databases</strong><br><br>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/NoSQL-8A4182?style=for-the-badge" />
-    </td>
-    <td align="center">
-      <strong>Languages & Tools</strong><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </td>
-  </tr>
-</table>
+```python
+class Yahya:
+    name       = "Yahya Bouchak"
+    role       = "Master Excellence Student — SIIA"
+    school     = "Polydisciplinary Faculty of Khouribga (FPK)"
+    focus      = ["Artificial Intelligence", "Big Data", "Full-Stack Dev"]
+    languages  = ["Python 🐍", "JavaScript ⚡", "Java ☕", "C", "VB.NET"]
+    looking_for = "Internship in AI / Software Engineering"
+```
 
 ---
 
-### 📂 Featured AI & Data Projects
+## 🛠️ Tech Stack
 
-| Project                                    | Description                                                                                                                                                                 | Core Technologies                                      |
-| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| [**AI-Powered Attendance Portal**](https://github.com/Bouchask/Portail_IA) | Engineered a portal for automated attendance tracking using YOLOv8 for detection and ArcFace for high-accuracy recognition to streamline administrative tasks.                | `Python`, `Flask`, `YOLOv8`, `ArcFace`, `FAISS`        |
-| [**Gradient Descent Visualizer**](https://github.com/Bouchask/gradiant-visuel) | Developed an interactive tool to visualize various gradient descent and optimization functions in 2D and 3D, providing an intuitive understanding of their behavior. | `Python`, `Flask`, `NumPy`, `Matplotlib`, `JS` |
-| [**NASDAQ 100 Stock Prediction**](https://github.com/Bouchask/prediction_nasdaq) | Developed a time-series forecasting model for the NASDAQ 100 index, leveraging TensorFlow to predict market movements and validate trading strategies.                        | `Python`, `TensorFlow`, `Streamlit`, `yfinance`        |
-| [**Smart Finger & Emotion Detection**](https://github.com/Bouchask/detection_face) | Created a real-time HCI system using MediaPipe and DeepFace to interpret hand gestures and facial expressions for intuitive, non-verbal software control.                     | `Python`, `DeepFace`, `MediaPipe`, `OpenCV`            |
-| [**Unsupervised Face Clustering**](https://github.com/Bouchask/D-tection-et-de-Clustering-des-Visages) | Implemented a pipeline for face clustering in media, combining InsightFace for feature extraction and HDBSCAN for density-based grouping of individuals.                      | `Python`, `OpenCV`, `InsightFace`, `HDBSCAN`           |
-| [**NLP Sentiment Analysis App**](https://github.com/Bouchask/nlp_sentiment_project) | Built a sentiment analysis tool using a fine-tuned DistilRoBERTa model, deployed via Streamlit for instant emotional tone analysis of text.                                   | `Python`, `DistilRoBERTa`, `Streamlit`                 |
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_LLM-000000?style=flat-square&logoColor=white)
+
+### 👁️ Computer Vision & NLP
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square)
+![GPT](https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-000000?style=flat-square&logo=google&logoColor=white)
+![RoBERTa](https://img.shields.io/badge/RoBERTa-3B5998?style=flat-square)
+
+### 🌊 Big Data & Engineering
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=hadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apache-hive&logoColor=black)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square)
+
+### 🌐 Web & Backend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![HiveQL](https://img.shields.io/badge/HiveQL-FDEE21?style=flat-square&logo=apache-hive&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+### ⚙️ Tools & Methods
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![UML](https://img.shields.io/badge/UML-8CA1AF?style=flat-square)
+![Merise](https://img.shields.io/badge/Merise-8CA1AF?style=flat-square)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
 
 ---
 
-### 🏢 Professional Experience
+## 🚀 Featured Projects
 
-**Full Stack Developer Intern** @ Tech Solutions Inc. (_Summer 2023_)
-- Developed and maintained web applications using Laravel and React.
-- Collaborated with the AI team to integrate a recommendation engine.
-- Participated in the full software development lifecycle, from planning to deployment.
+### 🔒 Security & AI
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**SIEM AI Dashboard**](https://github.com/Bouchask/siam-stage) | Real-time SIEM dashboard that classifies Wazuh security alerts as True/False Positives using Kafka streaming and local LLMs (Ollama). | `FastAPI` `React` `Kafka` `Ollama` `Wazuh` `SQLite` |
+| [**AI-Powered Attendance Portal**](https://github.com/Bouchask/Portail_IA) | Automated attendance system using YOLOv8 for face detection and ArcFace for high-accuracy recognition. | `Python` `Flask` `YOLOv8` `ArcFace` `FAISS` |
+
+### 🏫 University Systems
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**RomeAI — Campus Room Manager**](https://github.com/Bouchask/romeAI) | Full university room & session management system with a React Native mobile app and Flask REST API for bookings, scheduling, and attendance. | `React Native` `Flask` `SQLAlchemy` `SQLite` `Ngrok` |
+| [**Oracle Database Intelligence System**](https://github.com/Bouchask/projet_oracle_V2) | 3-tier university management system with PL/SQL triggers, stored procedures, and role-based dashboards (Admin / Professor / Student). | `Oracle DB` `PL/SQL` `Python` `Streamlit` |
+
+### 📊 Data Science & ML
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Optimal K-Clustering Methodology**](https://github.com/Bouchask/clustring) | Determines the optimal number of clusters K using rigorous mathematical, statistical, and probabilistic criteria (Geometric, Statistical, Likelihood). | `Python` `Scikit-learn` `Matplotlib` |
+| [**NASDAQ 100 Stock Prediction**](https://github.com/Bouchask/prediction_nasdaq) | Time-series forecasting model for the NASDAQ 100 index using TensorFlow to predict market movements. | `Python` `TensorFlow` `Streamlit` `yfinance` |
+| [**NLP Sentiment Analysis App**](https://github.com/Bouchask/nlp_sentiment_project) | Sentiment analysis tool using a fine-tuned DistilRoBERTa model deployed via Streamlit. | `Python` `DistilRoBERTa` `Streamlit` |
+
+### 👁️ Computer Vision
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Unsupervised Face Clustering**](https://github.com/Bouchask/D-tection-et-de-Clustering-des-Visages) | Pipeline combining InsightFace for feature extraction and HDBSCAN for density-based face clustering in media. | `Python` `OpenCV` `InsightFace` `HDBSCAN` |
+| [**Smart Finger & Emotion Detection**](https://github.com/Bouchask/detection_face) | Real-time HCI system using MediaPipe and DeepFace to interpret hand gestures and facial expressions for software control. | `Python` `DeepFace` `MediaPipe` `OpenCV` |
+| [**Gradient Descent Visualizer**](https://github.com/Bouchask/gradiant-visuel) | Interactive 2D/3D visualization tool for gradient descent and optimization algorithms. | `Python` `Flask` `NumPy` `Matplotlib` `JS` |
 
 ---
 
-### 🎓 Education
+## 💼 Experience
 
-- **Master's in Information Systems & Artificial Intelligence**
-  - _Faculté Polydisciplinaire Khouribga (FPK)_ | `2025 - Present`
-- **Bachelor's in Information Systems & Artificial Intelligence**
-  - _Faculté Polydisciplinaire Khouribga (FPK)_ | `2024 - 2025`
-- **Higher Technician's Certificate in Information Systems Development**
-  - _Lycée Technique Qualifiant_ | `2022 - 2024`
+**Web Development Intern** — *OCP Phosboucraa* `(2 months)`
+- Built an internal web application for managing medical appointments and doctor accounts.
+- Managed the full project lifecycle: UML design → development → production deployment.
+- Collaborated directly with end-users to gather requirements.
+- **Stack:** Laravel · Tailwind CSS · HTML
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Status |
+|--------|-------------|--------|
+| 🎓 **Master Excellence in SIIA** *(Information Systems & AI)* | Polydisciplinary Faculty of Khouribga (FPK) | 🟢 In Progress |
+| 📜 **Bachelor's Excellence in SIIA** *(Information Systems & AI)* | Polydisciplinary Faculty of Khouribga (FPK) | ✅ Graduated |
+| 📋 **BTS in DSI** *(Information Systems Development)* | — | ✅ Graduated — **Honors: Very Good** |
+
+---
+
+## 🌍 Languages
+
+| Language | Level |
+|----------|-------|
+| Arabic | Native |
+| French | Intermediate |
+| English | Intermediate |
 
 ---
 
 <div align="center">
-  <h3>📫 Contact & Inquiries</h3>
-  <p>Feel free to reach out for collaborations or just a chat!</p>
-  <p><strong>mr.bouchakyahya@gmail.com</strong></p>
+
+*Open to internship opportunities in AI, Data Science & Full-Stack Development.*
+
+**mr.bouchakyahya@gmail.com**
+
 </div>
