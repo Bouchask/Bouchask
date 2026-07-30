@@ -38,7 +38,8 @@
     "Deep Learning Architecture (CNNs, LSTMs, Transformers)",
     "Applied Computer Vision (YOLO, ArcFace, MediaPipe)",
     "Modern Full-Stack Engineering (React, TS, FastAPI, PostgreSQL)",
-    "Distributed Streaming & GenAI (Kafka, Ollama)"
+    "Distributed Streaming & GenAI (Kafka, Ollama)",
+    "Enterprise DevOps & Analytics (Kubernetes, Jenkins, Power BI, Oracle DB)"
   ],
   "status": "🟢 Actively looking for Internships and Junior Positions"
 }
@@ -65,6 +66,14 @@
   
   <p><strong>AI/ML & Deep Learning Ecosystem</strong></p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,numpy,kaggle&theme=dark&perline=6" alt="AI and ML" />
+  
+  <br/><br/>
+  
+  <p><strong>Enterprise & DevOps Infrastructure</strong></p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" />
 </div>
 
 <br/>
