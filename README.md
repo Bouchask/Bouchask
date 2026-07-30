@@ -1,301 +1,173 @@
 <div align="center">
 
-<!-- Animated typing header -->
+<!-- Sleek Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:8b5cf6&height=150&section=header&text=Yahya%20Bouchak&fontSize=60&fontAlignY=50&desc=Junior%20AI%20%26%20Software%20Engineer&descAlignY=80&descAlign=50" width="100%" alt="Header Banner" />
+
+<br/><br/>
+
+<!-- Modern Grotesk Typing Font -->
 <a href="https://yahya.ink">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Yahya+Bouchak;AI+%26+Computer+Vision+Engineer;Full-Stack+Developer;Big+Data+%26+LLM+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+Intelligent+Systems;Training+Deep+Neural+Networks;Architecting+Web+Applications;Actively+seeking+Junior+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=64748B&center=true&vCenter=true&width=600&height=30&lines=Master+SIIA+%E2%80%94+FP+Khouribga%2C+Morocco;Building+intelligent+systems+since+2022;Open+to+internships+%F0%9F%9F%A2" alt="Subtitle" />
+<!-- Minimalist Dark Badges -->
+<a href="https://yahya.ink"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/yahyabouchak"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn" /></a>
+<a href="mailto:mr.bouchakyahya@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" /></a>
+<a href="https://github.com/Bouchask"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-yahya.ink-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://yahya.ink)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yahyabouchak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahyabouchak)
-[![Email](https://img.shields.io/badge/Email-mr.bouchakyahya@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.bouchakyahya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Bouchask-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bouchask)
+<img src="https://komarev.com/ghpvc/?username=Bouchask&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Views"/>
+</div>
 
 <br/>
 
-![Available](https://img.shields.io/badge/Status-Open%20to%20Internship%20%F0%9F%9F%A2-22c55e?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Morocco-ef4444?style=flat-square&logo=googlemaps&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20CV%20%7C%20Big%20Data-8b5cf6?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=Bouchask&color=0ea5e9&style=flat-square&label=Profile+Views)
-
-</div>
-
 ---
 
-## 👨‍💻 About Me
+### 💻 System Configuration
 
-```python
-class YahyaBouchak:
-    name        = "Yahya Bouchak"
-    degree      = "Master Excellence — SIIA (Information Systems & AI)"
-    school      = "Polydisciplinary Faculty of Khouribga (FPK), Morocco"
-    focus       = ["Artificial Intelligence", "Computer Vision", "Big Data", "Full-Stack Dev"]
-    languages   = ["Python", "JavaScript", "TypeScript", "Java", "C", "VB.NET"]
-    looking_for = "Internship — AI / Data Science / Software Engineering"
-    live_project = "https://si-ia.site"  # 🚀 Production platform serving real students
-    available   = True
-
-    def greet(self):
-        return "I build intelligent systems where data meets real-world impact."
+```json
+{
+  "name": "Yahya Bouchak",
+  "title": "Junior AI Engineer & Full-Stack Developer",
+  "location": "Morocco",
+  "education": "Master's in Information Systems & AI (FPK - USMS)",
+  "core_competencies": [
+    "Deep Learning Architecture (CNNs, LSTMs, Transformers)",
+    "Applied Computer Vision (YOLO, ArcFace, MediaPipe)",
+    "Modern Full-Stack Engineering (React, TS, FastAPI, PostgreSQL)",
+    "Distributed Streaming & GenAI (Kafka, Ollama)"
+  ],
+  "status": "🟢 Actively looking for Internships and Junior Positions"
+}
 ```
 
-> Master's student in Information Systems & Artificial Intelligence at FP Khouribga (USMS), Morocco.
-> I build systems that solve real problems — from real-time LLM-powered security alert triage over Kafka,
-> to production face recognition pipelines deployed for automated attendance.
->
-> **Actively seeking an internship** in AI Engineering, Data Science, or Software Engineering.
+> **Mission:** Bridging the gap between bleeding-edge AI models and highly scalable web platforms. I write code that learns, adapts, and delivers real-world value.
+
+<br/>
 
 ---
 
-## 🚀 Featured Projects
+### ⚡ Technical Arsenal
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+  <p><strong>Programming & Backend</strong></p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,php,fastapi,flask,nodejs,postgres,mysql&theme=dark&perline=9" alt="Languages and Backend" />
+  
+  <br/><br/>
 
-### 🔴 LIVE — SIIA Academic Platform
-**[si-ia.site](https://si-ia.site)** · [GitHub](https://github.com/Bouchask/siia)
+  <p><strong>Frontend & Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,linux,git,github,vercel&theme=dark&perline=8" alt="Frontend and DevOps" />
+  
+  <br/><br/>
+  
+  <p><strong>AI/ML & Deep Learning Ecosystem</strong></p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,numpy,kaggle&theme=dark&perline=6" alt="AI and ML" />
+</div>
 
-Production academic management platform serving real students at FP Khouribga. React 19 + Flask + PostgreSQL on Vercel. Built with a team of 3, 57 commits, RBAC security.
+<br/>
 
-`React 19` `Flask` `PostgreSQL` `Alembic` `JWT RBAC` `Vercel` `Google Drive API`
+---
 
-![Commits](https://img.shields.io/github/commit-activity/t/Bouchask/siia?style=flat-square&color=22c55e&label=commits)
-![Stars](https://img.shields.io/github/stars/Bouchask/siia?style=flat-square&color=0ea5e9)
+### 🚀 Power Projects
 
-</td>
-<td width="50%" valign="top">
-
-### 🔒 SIEM AI Dashboard
-[GitHub](https://github.com/Bouchask/siam-stage)
-
-Real-time security alert classification with Apache Kafka + local LLM (Ollama). Classifies Wazuh alerts as True/False Positives with a FastAPI backend and React dashboard.
-
-`FastAPI` `Apache Kafka` `Ollama LLM` `React` `Wazuh` `SQLite` `Python`
-
-![Stars](https://img.shields.io/github/stars/Bouchask/siam-stage?style=flat-square&color=0ea5e9)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👁️ AI Attendance Portal
-[GitHub](https://github.com/Bouchask/Portail_IA)
-
-Automated attendance system — YOLOv8 for face detection, ArcFace for recognition, FAISS for sub-millisecond similarity search at scale. Flask REST backend.
-
-`Python` `YOLOv8` `ArcFace` `FAISS` `Flask` `OpenCV`
-
-![Stars](https://img.shields.io/github/stars/Bouchask/Portail_IA?style=flat-square&color=0ea5e9)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 NASDAQ 100 Forecasting
-[GitHub](https://github.com/Bouchask/prediction_nasdaq)
-
-Hybrid CNN-LSTM-GRU model on 10 years of market data. 92% validation accuracy. Buy/Sell/Hold signal generation. Ships with trained weights + TensorBoard logs.
-
-`TensorFlow` `CNN-LSTM-GRU` `Streamlit` `yfinance` `Pandas`
-
-![Stars](https://img.shields.io/github/stars/Bouchask/prediction_nasdaq?style=flat-square&color=0ea5e9)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧑‍🤝‍🧑 Unsupervised Face Clustering
-[GitHub](https://github.com/Bouchask/D-tection-et-de-Clustering-des-Visages)
-
-InsightFace for high-dimensional embedding extraction + HDBSCAN for density-based clustering. Automatic face grouping in large media datasets without labels.
-
-`Python` `InsightFace` `HDBSCAN` `OpenCV` `Scikit-learn`
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 NLP Sentiment Analysis
-[GitHub](https://github.com/Bouchask/nlp_sentiment_project)
-
-Fine-tuned DistilRoBERTa on YouTube comment sentiment for 3 TV series. Training tracked with Weights & Biases. Clean `src/` project layout.
-
-`DistilRoBERTa` `HuggingFace` `W&B` `Streamlit` `YouTube API`
-
-</td>
-</tr>
+<table bordercolor="#30363d">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🧠 Deep Learning Core</h3>
+      <br/>
+      <b><a href="https://github.com/Bouchask/cnn_fromscratch">⚙️ CNN From Scratch</a></b>
+      <p>Built a Convolutional Neural Network entirely from scratch using NumPy. Demonstrates deep understanding of forward/backward propagation and tensor math.</p>
+      <hr/>
+      <b><a href="https://github.com/Bouchask/prediction_nasdaq">📈 NASDAQ Forecaster</a></b>
+      <p>Hybrid Deep Learning model (CNN-LSTM-GRU) analyzing 10 years of market data to predict stock trends with 92% accuracy.</p>
+      <hr/>
+      <b><a href="https://github.com/Bouchask/gen-ai">🌌 Generative AI Studies</a></b>
+      <p>Explorations into Large Language Models, prompt engineering, and GenAI applications.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">👁️ Applied AI Systems</h3>
+      <br/>
+      <b><a href="https://github.com/Bouchask/Portail_IA">👁️ AI Attendance Portal</a></b>
+      <p>Sub-millisecond face recognition pipeline built with YOLOv8, ArcFace, and FAISS. Wrapped in a RESTful Flask API.</p>
+      <hr/>
+      <b><a href="https://github.com/Bouchask/siam-stage">🔒 SIEM LLM Dashboard</a></b>
+      <p>Real-time security alert classifier. Streams Wazuh logs via Apache Kafka and classifies threats locally using Ollama LLMs.</p>
+      <hr/>
+      <b><a href="https://github.com/Bouchask/nlp_sentiment_project">💬 NLP Sentiment Engine</a></b>
+      <p>Fine-tuned DistilRoBERTa on HuggingFace to analyze YouTube comments for deep sentiment insights.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🌐 Scalable Web Apps</h3>
+      <br/>
+      <b><a href="https://si-ia.site">🔴 SIIA Academic Platform</a></b>
+      <p><b>[LIVE]</b> Production platform serving students. Built with React 19, Flask, and PostgreSQL. Hosted on Vercel with RBAC security.</p>
+      <hr/>
+      <b><a href="https://github.com/Bouchask/laboratoire-dentaire-management">🦷 Lab Management System</a></b>
+      <p>Complex, responsive dashboard built with TypeScript. Focuses on robust state management and UI/UX for dental labs.</p>
+      <hr/>
+      <b><a href="https://github.com/Bouchask/D-tection-et-de-Clustering-des-Visages">👥 Unsupervised Face Cluster</a></b>
+      <p>Data science pipeline combining InsightFace embeddings and HDBSCAN to automatically group unlabeled faces.</p>
+    </td>
+  </tr>
 </table>
 
+<br/>
+
 ---
 
-## 🛠️ Tech Stack
+### 📊 Real-Time GitHub Metrics
 
 <div align="center">
-
-### 🤖 AI · Machine Learning · Computer Vision
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama_LLM-000000?style=for-the-badge&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
-
-### 🌊 Big Data · Streaming · Infrastructure
-
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🌐 Web · Backend · Databases
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
+  <!-- Custom tailored stats with dark cyberpunk-esque theme -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Bouchask&show_icons=true&theme=react&bg_color=0f172a&title_color=0ea5e9&icon_color=8b5cf6&text_color=cbd5e1&hide_border=true&count_private=true" alt="Stats" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bouchask&layout=compact&theme=react&bg_color=0f172a&title_color=0ea5e9&text_color=cbd5e1&hide_border=true&langs_count=6" alt="Langs" height="170"/>
+  
+  <br/><br/>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bouchask/Bouchask/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bouchask/Bouchask/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Bouchask/Bouchask/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<!--
-  IMPORTANT: The public github-readme-stats.vercel.app instance is rate-limited and unreliable.
-  Using the fast mirror (github-readme-stats-fast.vercel.app) which has better uptime.
-  If images still break, self-host: fork anuraghazra/github-readme-stats → deploy to your own Vercel.
--->
-
-<img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=Bouchask&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yahya's GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bouchask&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
-
-<!--
-  Streak stats: using streak-stats.demolab.com (maintained by DenverCoder1, more reliable than the
-  old herokuapp instance which had persistent downtime after Heroku ended free tier).
--->
-<img src="https://streak-stats.demolab.com?user=Bouchask&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- Trophy widget — independent service, generally reliable -->
-<img src="https://github-profile-trophy.vercel.app/?username=Bouchask&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<!--
-  SNAKE ANIMATION — only shows after the GitHub Actions workflow runs:
-  1. Create .github/workflows/snake.yml in this repo (code below)
-  2. Go to Actions → Generate Snake → Run workflow
-  3. Wait ~1 min for the SVG to be pushed to the output branch
-  Then this image will render. Until then it shows a broken image.
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bouchask/Bouchask/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bouchask/Bouchask/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Bouchask/Bouchask/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## ⚙️ Setup: Snake Animation Workflow
-
-Create `.github/workflows/snake.yml` in this repo to activate the contribution snake animation above:
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Bouchask
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After adding → **Actions → Generate Snake → Run workflow** → wait ~1 min → snake appears.
-
----
-
-## 💼 Experience
-
-| Role | Company | Duration | Stack |
-|------|---------|----------|-------|
-| 🏭 **Web Development Intern** | OCP Phosboucraa | 2 months | Laravel · Tailwind CSS · MySQL |
-
-Built an internal medical appointment management system from scratch — full project lifecycle from requirements gathering and UML design through to production deployment, collaborating directly with end users.
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | Status |
-|--------|-------------|------|--------|
-| 🎓 **Master Excellence — SIIA** | FP Khouribga (USMS) | 2025–present | 🟢 In Progress |
-| 📜 **Bachelor Excellence — SIIA** | FP Khouribga (USMS) | 2024–2025 | ✅ Graduated |
-| 📋 **BTS — DSI** | — | 2022–2024 | ✅ **Honors: Very Good** |
-
----
-
-## 🌍 Languages
-
-| Language | Level | Bar |
-|---------|-------|-----|
-| Arabic | Native | `████████████` 100% |
-| French | Intermediate | `████████░░░░` 65% |
-| English | Intermediate | `████████░░░░` 65% |
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-**Open to internship opportunities** in AI Engineering, Data Science, Computer Vision, or Full-Stack Development — remote or in Morocco.
 
 <br/>
 
-[![Send Email](https://img.shields.io/badge/Send%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.bouchakyahya@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahyabouchak)
-[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://yahya.ink)
-[![Live Platform](https://img.shields.io/badge/Live%20Platform-si--ia.site-22c55e?style=for-the-badge&logo=rocketdotchat&logoColor=white)](https://si-ia.site)
-
-<br/><br/>
-
 ---
 
-*"Building intelligent systems where data meets real-world impact."*
+### 📚 Experience & Education
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=100&section=footer" />
+*Click to expand details!*
 
+<details>
+  <summary><b>🎓 Master Excellence — SIIA (Information Systems & AI)</b></summary>
+  <blockquote>
+    <b>FP Khouribga (USMS) | 2025–Present</b><br/>
+    Focusing on advanced AI architectures, Big Data systems, and robust software engineering practices.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>💼 Web Development Intern @ OCP Phosboucraa</b></summary>
+  <blockquote>
+    <b>2 Months Internship</b><br/>
+    Designed and built a medical appointment management system using Laravel, Tailwind CSS, and MySQL. Managed the full lifecycle from UML design to deployment.
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>🏅 BTS — DSI (Honors: Very Good)</b></summary>
+  <blockquote>
+    <b>2022–2024</b><br/>
+    Built a strong foundation in computer science and software development.
+  </blockquote>
+</details>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </div>
