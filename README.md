@@ -160,6 +160,14 @@
 </details>
 
 <details>
+  <summary><b>📜 Licence Excellence — SIIA (Honors: Good)</b></summary>
+  <blockquote>
+    <b>FP Khouribga (USMS) | 2024–2025</b><br/>
+    Graduated with "Mention Bien" (Good). Specialized in Information Systems and Artificial Intelligence.
+  </blockquote>
+</details>
+
+<details>
   <summary><b>💼 Web Development Intern @ OCP Phosboucraa</b></summary>
   <blockquote>
     <b>2 Months Internship</b><br/>
