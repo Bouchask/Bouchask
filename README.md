@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Sleek Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:8b5cf6&height=150&section=header&text=Yahya%20Bouchak&fontSize=60&fontAlignY=50&desc=Junior%20AI%20%26%20Software%20Engineer&descAlignY=80&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=150&section=header&text=Yahya%20Bouchak&fontSize=60&fontAlignY=50&desc=Junior%20AI%20and%20Software%20Engineer&descAlignY=80&descAlign=50" width="100%" alt="Header Banner" />
 
 <br/><br/>
 
@@ -169,5 +169,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </div>
