@@ -6,14 +6,14 @@
 <br/><br/>
 
 <!-- Modern Grotesk Typing Font -->
-<a href="https://yahya.ink">
+<a href="https://bouchak-yahya.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+Intelligent+Systems;Training+Deep+Neural+Networks;Architecting+Web+Applications;Actively+seeking+Junior+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Minimalist Dark Badges -->
-<a href="https://yahya.ink"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://bouchak-yahya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/yahyabouchak"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn" /></a>
 <a href="mailto:mr.bouchakyahya@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" /></a>
 <a href="https://github.com/Bouchask"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
