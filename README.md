@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Sleek Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=150&section=header&text=Yahya%20Bouchak&fontSize=60&fontAlignY=50&desc=Junior%20AI%20and%20Software%20Engineer&descAlignY=80&descAlign=50" width="100%" alt="Header Banner" />
+<img src="yahya.svg" width="100%" alt="Yahya Bouchak - Header Banner" />
 
 <br/><br/>
 
