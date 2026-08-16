@@ -1,190 +1,200 @@
 <div align="center">
 
-<!-- Sleek Gradient Header -->
-<img src="yahya.svg" width="100%" alt="Yahya Bouchak - Header Banner" />
+# 👋 Hi, I'm Yahya Bouchak
 
-<br/><br/>
+### **AI Engineer · Generative AI · LLMs · AI Agents · Machine Learning**
 
-<!-- Modern Grotesk Typing Font -->
-<a href="https://bouchak-yahya.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Building+Intelligent+Systems;Training+Deep+Neural+Networks;Architecting+Web+Applications;Actively+seeking+Junior+Roles" alt="Typing SVG" />
-</a>
+🎓 **Master's Student in Information Systems & Artificial Intelligence (SIIA)**  
+🇲🇦 Morocco · 🇫🇷 **Open to PFE / AI Internships in France**
 
-<br/>
-
-<!-- Minimalist Dark Badges -->
 <a href="https://bouchak-yahya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/yahyabouchak"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn" /></a>
 <a href="mailto:mr.bouchakyahya@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" /></a>
-<a href="https://github.com/Bouchask"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=Bouchask&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Views"/>
 </div>
-
-<br/>
 
 ---
 
-### 💻 System Configuration
+## 👨‍💻 About Me
 
-```json
-{
-  "name": "Yahya Bouchak",
-  "title": "Junior AI Engineer & Full-Stack Developer",
-  "location": "Morocco",
-  "education": "Master's in Information Systems & AI (FPK - USMS)",
-  "core_competencies": [
-    "Deep Learning Architecture (CNNs, LSTMs, Transformers)",
-    "Applied Computer Vision (YOLO, ArcFace, MediaPipe)",
-    "Modern Full-Stack Engineering (React, TS, FastAPI, PostgreSQL)",
-    "Distributed Streaming & GenAI (Kafka, Ollama)",
-    "Enterprise DevOps & Analytics (Kubernetes, Jenkins, Power BI, Oracle DB)"
-  ],
-  "status": "🟢 Actively looking for Internships and Junior Positions"
-}
+I am a **Master's student in Information Systems & Artificial Intelligence (SIIA)** at Université Sultan Moulay Slimane, Morocco, focused on building practical AI systems.
+
+My current interests are **Generative AI, LLM applications, AI agents, Machine Learning and Deep Learning**. I enjoy connecting AI models with real software systems through APIs, tool orchestration, databases and deployment workflows.
+
+I am currently looking for a **5-month PFE internship in France starting February 2027**, with a strong interest in **AI Engineering, Generative AI, LLMs, Agentic AI, Machine Learning and applied AI/R&D**.
+
+---
+
+## 🚀 Featured Projects
+
+> **Five projects that best represent my current AI engineering direction.**
+
+### 🤖 1. AgentOS — AI Agent Platform
+**LLMs · AI Agents · MCP · FastAPI · React · TypeScript · Ollama · Qwen · Docker**
+
+A local-first AI agent platform designed to turn user requests into planned actions, discover and execute tools through MCP, and produce grounded responses.
+
+**Architecture:** `Request → Planner → MCP Client → Tool Registry → Tools → Orchestrator → LLM → Response`
+
+**Highlights:** agent planning, MCP tool discovery/execution, local LLMs, memory, PDF analysis, filesystem/search tools, typed Pydantic contracts, FastAPI backend, React dashboard, testing and Docker.
+
+🔗 **[View AgentOS →](https://github.com/Bouchask/AgentOS)**
+
+---
+
+### 🎙️ 2. AI Podcast Pipeline — Multimodal Generative AI
+**Qwen2.5 · Kokoro TTS · SDXL · SadTalker · OpenCV · MoviePy · FFmpeg**
+
+An end-to-end Generative AI pipeline that transforms a topic into an animated video podcast.
+
+**Pipeline:** `Topic → LLM Script → TTS → AI Avatars → Lip Sync → Video Montage → Subtitles`
+
+Demonstrates local LLM generation, multi-speaker TTS, image generation, avatar animation, computer vision, automated rendering and resource-aware model execution.
+
+🔗 **[View gen-ai →](https://github.com/Bouchask/gen-ai)**
+
+---
+
+### 🛡️ 3. Hybrid Anomaly Detection — Deep Learning
+**PyTorch · Autoencoder · Neural Networks · NSL-KDD · scikit-learn**
+
+An academic Deep Learning project combining representation learning and supervised classification for network intrusion detection.
+
+The model uses a shared encoder with reconstruction and classification heads, multi-task loss, AdamW, gradient clipping, early stopping and F1-based threshold selection.
+
+**Reported evaluation:** Precision **99.70%** · Recall **99.15%** · F1-score **99.42%**
+
+🔗 **[View project-dl →](https://github.com/Bouchask/project-dl)**
+
+---
+
+### 🧠 4. AI Security & Real-Time LLM Systems
+**Wazuh · Apache Kafka · Ollama · LLMs · Flask · REST APIs**
+
+A security-focused academic project exploring real-time security alert processing, Kafka streaming and local LLM-based classification of Wazuh events.
+
+This project represents my interest in applying **LLMs to operational systems**, not only standalone model experiments.
+
+🔗 **[View SIEM project →](https://github.com/Bouchask/siam-stage)**
+
+---
+
+### 👁️ 5. Applied Computer Vision Platform
+**YOLOv8 · ArcFace · FAISS · Flask · Computer Vision**
+
+An applied AI attendance system combining face detection, face recognition and vector similarity search behind a REST API.
+
+It demonstrates the integration of **Computer Vision models with backend engineering and deployable APIs**.
+
+🔗 **[View project →](https://github.com/Bouchask/Portail_IA)**
+
+---
+
+## 🧪 Academic Foundations
+
+My academic work also covers **Machine Learning, Deep Learning, NLP, Computer Vision, clustering, data preprocessing and database systems**.
+
+Selected work includes:
+
+- **Machine Learning:** supervised learning pipelines, preprocessing and model comparison
+- **Unsupervised Learning:** PCA, K-Means, GMM and clustering evaluation
+- **Deep Learning:** CNNs, sequence models and neural network architectures
+- **NLP:** Transformer-based sentiment analysis
+- **Computer Vision:** face embeddings, detection and clustering
+- **Information Systems:** Oracle, PL/SQL, SQL, database design and business logic
+
+These projects form the technical foundation behind my current focus on AI engineering and Generative AI.
+
+---
+
+## 🛠️ Technical Stack
+
+### AI / Machine Learning
+`Python` · `PyTorch` · `TensorFlow/Keras` · `scikit-learn` · `Pandas` · `NumPy` · `OpenCV`
+
+### Generative AI / LLM / Agents
+`Qwen` · `Ollama` · `LLMs` · `AI Agents` · `MCP` · `RAG` · `Prompt Engineering` · `TTS` · `Generative Vision`
+
+### Backend / Software Engineering
+`FastAPI` · `Flask` · `REST APIs` · `React` · `TypeScript` · `Docker` · `Git`
+
+### Data / Databases
+`SQL` · `Oracle` · `PL/SQL` · `PostgreSQL` · `SQLite`
+
+---
+
+## 🎓 Education
+
+**Master Excellence — Systèmes d'Information et Intelligence Artificielle (SIIA)**  
+Université Sultan Moulay Slimane · Faculté Polydisciplinaire de Khouribga · **2025–Present**
+
+Relevant areas: Advanced Machine Learning, Advanced Deep Learning, Generative AI, Python for Data Science, NLP, Big Data, Oracle/Advanced Databases, Statistics & Mathematics and Information Systems.
+
+**Licence Excellence — SIIA** · Université Sultan Moulay Slimane · **2024–2025**  
+**Mention Bien (Good)**
+
+**BTS — Développement des Systèmes d'Information** · **2022–2024**  
+**Mention Très Bien (Very Good)**
+
+---
+
+## 💼 Experience
+
+**Web Development Intern — OCP Phosboucraa**  
+Built a medical appointment management system using **Laravel, Tailwind CSS and MySQL**, covering design, development and deployment.
+
+---
+
+## 🎯 Internship Objective
+
+### 🇫🇷 PFE — February 2027
+
+I am looking for a **5-month end-of-studies internship in France** starting **February 2027**, preferably in:
+
+- **AI Engineering**
+- **Generative AI / GenAI**
+- **LLM Engineering**
+- **AI Agents / Agentic AI**
+- **Machine Learning Engineering**
+- **Data Science**
+- **Applied AI / R&D**
+
+I am particularly interested in teams building **practical AI products, intelligent automation, LLM applications and production-oriented AI systems**.
+
+📩 **Open to PFE opportunities, internships and AI-focused collaborations.**
+
+---
+
+## 📚 Current Direction
+
+```text
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Generative AI
+      ↓
+LLMs
+      ↓
+AI Agents + MCP
+      ↓
+Production-Oriented AI Systems
 ```
 
-> **Mission:** Bridging the gap between bleeding-edge AI models and highly scalable web platforms. I write code that learns, adapts, and delivers real-world value.
-
-<br/>
+My goal is to grow as an **AI Engineer** capable of designing, implementing, evaluating and integrating complete AI systems — from models and agents to APIs and applications.
 
 ---
-
-### ⚡ Technical Arsenal
 
 <div align="center">
-  <p><strong>Programming & Backend</strong></p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,php,fastapi,flask,nodejs,postgres,mysql&theme=dark&perline=9" alt="Languages and Backend" />
-  
-  <br/><br/>
 
-  <p><strong>Frontend & Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,docker,linux,git,github,vercel&theme=dark&perline=8" alt="Frontend and DevOps" />
-  
-  <br/><br/>
-  
-  <p><strong>AI/ML & Deep Learning Ecosystem</strong></p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,numpy,kaggle&theme=dark&perline=6" alt="AI and ML" />
-  
-  <br/><br/>
-  
-  <p><strong>Enterprise & DevOps Infrastructure</strong></p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB" />
-</div>
+### 🤝 Let's Connect
 
-<br/>
+**AI · GenAI · LLMs · Agents · Machine Learning · Applied AI**
 
----
+<a href="https://linkedin.com/in/yahyabouchak">LinkedIn</a> · <a href="https://bouchak-yahya.vercel.app/">Portfolio</a> · <a href="mailto:mr.bouchakyahya@gmail.com">Email</a>
 
-### 🚀 Power Projects
+<br/><br/>
 
-<table bordercolor="#30363d">
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🧠 Deep Learning Core</h3>
-      <br/>
-      <b><a href="https://github.com/Bouchask/cnn_fromscratch">⚙️ CNN From Scratch</a></b>
-      <p>Built a Convolutional Neural Network entirely from scratch using NumPy. Demonstrates deep understanding of forward/backward propagation and tensor math.</p>
-      <hr/>
-      <b><a href="https://github.com/Bouchask/prediction_nasdaq">📈 NASDAQ Forecaster</a></b>
-      <p>Hybrid Deep Learning model (CNN-LSTM-GRU) analyzing 10 years of market data to predict stock trends with 92% accuracy.</p>
-      <hr/>
-      <b><a href="https://github.com/Bouchask/gen-ai">🌌 Generative AI Studies</a></b>
-      <p>Explorations into Large Language Models, prompt engineering, and GenAI applications.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">👁️ Applied AI Systems</h3>
-      <br/>
-      <b><a href="https://github.com/Bouchask/Portail_IA">👁️ AI Attendance Portal</a></b>
-      <p>Sub-millisecond face recognition pipeline built with YOLOv8, ArcFace, and FAISS. Wrapped in a RESTful Flask API.</p>
-      <hr/>
-      <b><a href="https://github.com/Bouchask/siam-stage">🔒 SIEM LLM Dashboard</a></b>
-      <p>Real-time security alert classifier. Streams Wazuh logs via Apache Kafka and classifies threats locally using Ollama LLMs.</p>
-      <hr/>
-      <b><a href="https://github.com/Bouchask/nlp_sentiment_project">💬 NLP Sentiment Engine</a></b>
-      <p>Fine-tuned DistilRoBERTa on HuggingFace to analyze YouTube comments for deep sentiment insights.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🌐 Scalable Web Apps</h3>
-      <br/>
-      <b><a href="https://si-ia.site">🔴 SIIA Academic Platform</a></b>
-      <p><b>[LIVE]</b> Production platform serving students. Built with React 19, Flask, and PostgreSQL. Hosted on Vercel with RBAC security.</p>
-      <hr/>
-      <b><a href="https://github.com/Bouchask/laboratoire-dentaire-management">🦷 Lab Management System</a></b>
-      <p>Complex, responsive dashboard built with TypeScript. Focuses on robust state management and UI/UX for dental labs.</p>
-      <hr/>
-      <b><a href="https://github.com/Bouchask/D-tection-et-de-Clustering-des-Visages">👥 Unsupervised Face Cluster</a></b>
-      <p>Data science pipeline combining InsightFace embeddings and HDBSCAN to automatically group unlabeled faces.</p>
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Banner"/>
 
-<br/>
-
----
-
-### 📊 Real-Time GitHub Metrics
-
-<div align="center">
-  <!-- Custom tailored stats with dark cyberpunk-esque theme -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Bouchask&show_icons=true&theme=react&bg_color=0f172a&title_color=0ea5e9&icon_color=8b5cf6&text_color=cbd5e1&hide_border=true&count_private=true" alt="Stats" height="170"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bouchask&layout=compact&theme=react&bg_color=0f172a&title_color=0ea5e9&text_color=cbd5e1&hide_border=true&langs_count=6" alt="Langs" height="170"/>
-  
-  <br/><br/>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bouchask/Bouchask/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bouchask/Bouchask/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Bouchask/Bouchask/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br/>
-
----
-
-### 📚 Experience & Education
-
-*Click to expand details!*
-
-<details>
-  <summary><b>🎓 Master Excellence — SIIA (Information Systems & AI)</b></summary>
-  <blockquote>
-    <b>FP Khouribga (USMS) | 2025–Present</b><br/>
-    Focusing on advanced AI architectures, Big Data systems, and robust software engineering practices.
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>📜 Licence Excellence — SIIA (Honors: Good)</b></summary>
-  <blockquote>
-    <b>FP Khouribga (USMS) | 2024–2025</b><br/>
-    Graduated with "Mention Bien" (Good). Specialized in Information Systems and Artificial Intelligence.
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>💼 Web Development Intern @ OCP Phosboucraa</b></summary>
-  <blockquote>
-    <b>2 Months Internship</b><br/>
-    Designed and built a medical appointment management system using Laravel, Tailwind CSS, and MySQL. Managed the full lifecycle from UML design to deployment.
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>🏅 BTS — DSI (Honors: Very Good)</b></summary>
-  <blockquote>
-    <b>2022–2024</b><br/>
-    Built a strong foundation in computer science and software development.
-  </blockquote>
-</details>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </div>
