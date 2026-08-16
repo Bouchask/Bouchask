@@ -5,7 +5,7 @@
 ### **AI Engineer · Generative AI · LLMs · AI Agents · Machine Learning**
 
 🎓 **Master's Student in Information Systems & Artificial Intelligence (SIIA)**  
-🇲🇦 Morocco · 🇫🇷 **Open to PFE / AI Internships in France**
+🇲🇦 Morocco · **Open to PFE / AI Internship Opportunities**
 
 <a href="https://bouchak-yahya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/yahyabouchak"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn" /></a>
@@ -21,7 +21,7 @@ I am a **Master's student in Information Systems & Artificial Intelligence (SIIA
 
 My current interests are **Generative AI, LLM applications, AI agents, Machine Learning and Deep Learning**. I enjoy connecting AI models with real software systems through APIs, tool orchestration, databases and deployment workflows.
 
-I am currently looking for a **5-month PFE internship in France starting February 2027**, with a strong interest in **AI Engineering, Generative AI, LLMs, Agentic AI, Machine Learning and applied AI/R&D**.
+I am currently looking for a **5-month PFE internship starting February 2027**. I am open to opportunities in **Morocco, France, Canada and internationally**, with a strong interest in **AI Engineering, Generative AI, LLMs, Agentic AI, Machine Learning and applied AI/R&D**.
 
 ---
 
@@ -147,9 +147,11 @@ Built a medical appointment management system using **Laravel, Tailwind CSS and 
 
 ## 🎯 Internship Objective
 
-### 🇫🇷 PFE — February 2027
+### 🔎 PFE — February 2027
 
-I am looking for a **5-month end-of-studies internship in France** starting **February 2027**, preferably in:
+I am looking for a **5-month end-of-studies internship starting February 2027**.
+
+**Preferred areas:**
 
 - **AI Engineering**
 - **Generative AI / GenAI**
@@ -158,6 +160,8 @@ I am looking for a **5-month end-of-studies internship in France** starting **Fe
 - **Machine Learning Engineering**
 - **Data Science**
 - **Applied AI / R&D**
+
+**Location:** Morocco · France · Canada · International
 
 I am particularly interested in teams building **practical AI products, intelligent automation, LLM applications and production-oriented AI systems**.
 
