@@ -1,204 +1,246 @@
 <div align="center">
 
-# 👋 Hi, I'm Yahya Bouchak
+# Yahya Bouchak
 
-### **AI Engineer · Generative AI · LLMs · AI Agents · Machine Learning**
+### AI Engineer · Generative AI · LLMs · AI Agents · Machine Learning
 
-🎓 **Master's Student in Information Systems & Artificial Intelligence (SIIA)**  
-🇲🇦 Morocco · **Open to PFE / AI Internship Opportunities**
+**Master's Student in Information Systems & Artificial Intelligence (SIIA)**  
+🇲🇦 Morocco · **Open to 5-month PFE opportunities in France from February 2027**
 
-<a href="https://bouchak-yahya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/yahyabouchak"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0ea5e9" alt="LinkedIn" /></a>
-<a href="mailto:mr.bouchakyahya@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://bouchak-yahya.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yahyabouchak)
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mr.bouchakyahya@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a **Master's student in Information Systems & Artificial Intelligence (SIIA)** at Université Sultan Moulay Slimane, Morocco, focused on building practical AI systems.
+I am a **Master's student in Information Systems & Artificial Intelligence (SIIA)** at Université Sultan Moulay Slimane, Morocco. My focus is **building end-to-end AI systems**, from model experimentation to APIs, agent orchestration and deployable applications.
 
-My current interests are **Generative AI, LLM applications, AI agents, Machine Learning and Deep Learning**. I enjoy connecting AI models with real software systems through APIs, tool orchestration, databases and deployment workflows.
+My main areas are **Generative AI, LLM applications, AI Agents, Machine Learning, Deep Learning and Applied AI**. I am particularly interested in systems that connect models with **tools, data, APIs, databases and real-world workflows**.
 
-I am currently looking for a **5-month PFE internship starting February 2027**. I am open to opportunities in **Morocco, France, Canada and internationally**, with a strong interest in **AI Engineering, Generative AI, LLMs, Agentic AI, Machine Learning and applied AI/R&D**.
+### PFE Target — France 🇫🇷
 
----
+I am looking for a **5-month end-of-studies internship starting February 2027**, with priority for opportunities in **France**.
 
-## 🚀 Featured Projects
+**Target roles:**
+- AI Engineer / Applied AI Engineer
+- Generative AI / LLM Engineer Intern
+- AI Agent / Agentic AI Intern
+- Machine Learning Engineer Intern
+- Data Scientist / Applied ML Intern
+- AI R&D Intern
 
-> **Five projects that best represent my current AI engineering direction.**
-
-### 🤖 1. AgentOS — AI Agent Platform
-**LLMs · AI Agents · MCP · FastAPI · React · TypeScript · Ollama · Qwen · Docker**
-
-A local-first AI agent platform designed to turn user requests into planned actions, discover and execute tools through MCP, and produce grounded responses.
-
-**Architecture:** `Request → Planner → MCP Client → Tool Registry → Tools → Orchestrator → LLM → Response`
-
-**Highlights:** agent planning, MCP tool discovery/execution, local LLMs, memory, PDF analysis, filesystem/search tools, typed Pydantic contracts, FastAPI backend, React dashboard, testing and Docker.
-
-🔗 **[View AgentOS →](https://github.com/Bouchask/AgentOS)**
+I am especially interested in teams working on **LLM applications, intelligent agents, AI automation, production-oriented ML systems and applied research**.
 
 ---
 
-### 🎙️ 2. AI Podcast Pipeline — Multimodal Generative AI
-**Qwen2.5 · Kokoro TTS · SDXL · SadTalker · OpenCV · MoviePy · FFmpeg**
+## Featured Projects
 
-An end-to-end Generative AI pipeline that transforms a topic into an animated video podcast.
+These are the projects that best represent my current engineering direction.
 
-**Pipeline:** `Topic → LLM Script → TTS → AI Avatars → Lip Sync → Video Montage → Subtitles`
+### 1. AgentOS — Local-First AI Agent Platform
 
-Demonstrates local LLM generation, multi-speaker TTS, image generation, avatar animation, computer vision, automated rendering and resource-aware model execution.
+**AI Agents · MCP · LLMs · FastAPI · React · TypeScript · Ollama · Qwen · Docker**
 
-🔗 **[View gen-ai →](https://github.com/Bouchask/gen-ai)**
+A modular AI agent platform that converts user requests into planned actions, discovers and executes tools through MCP, and produces grounded responses.
+
+**Architecture**
+
+```text
+User Request
+     ↓
+Prompt Preparation
+     ↓
+Planner
+     ↓
+MCP Client + Tool Registry
+     ↓
+Tools / Services
+     ↓
+Orchestrator
+     ↓
+Local LLM
+     ↓
+Grounded Response
+```
+
+**Engineering highlights:** asynchronous orchestration, dependency injection, typed Pydantic contracts, MCP discovery/execution, local LLM routing, conversation memory, PDF processing, guarded filesystem access, FastAPI APIs, React dashboard, automated tests and Docker deployment.
+
+→ **[AgentOS](https://github.com/Bouchask/AgentOS)**
 
 ---
 
-### 🛡️ 3. Hybrid Anomaly Detection — Deep Learning
+### 2. GenAI Podcast Pipeline — Multimodal Content Generation
+
+**Qwen · Ollama · Kokoro TTS · SDXL · SadTalker · OpenCV · MoviePy · FFmpeg**
+
+An end-to-end local Generative AI pipeline that transforms a topic into an animated multi-speaker video podcast.
+
+```text
+Topic
+  ↓
+LLM Script Generation
+  ↓
+Multi-Speaker TTS
+  ↓
+AI Avatar Generation
+  ↓
+Lip-Sync / Animation
+  ↓
+Video Montage
+  ↓
+Subtitles + Final Video
+```
+
+The project demonstrates multimodal orchestration, local inference, model lifecycle management, video automation and resource-aware rendering.
+
+→ **[gen-ai](https://github.com/Bouchask/gen-ai)**
+
+---
+
+### 3. Hybrid Network Intrusion Detection — Deep Learning
+
 **PyTorch · Autoencoder · Neural Networks · NSL-KDD · scikit-learn**
 
-An academic Deep Learning project combining representation learning and supervised classification for network intrusion detection.
+A Deep Learning project combining representation learning and supervised classification for network intrusion detection.
 
-The model uses a shared encoder with reconstruction and classification heads, multi-task loss, AdamW, gradient clipping, early stopping and F1-based threshold selection.
+The architecture uses a shared encoder with reconstruction and classification heads, multi-task learning, AdamW, gradient clipping, early stopping and F1-based threshold selection.
 
 **Reported evaluation:** Precision **99.70%** · Recall **99.15%** · F1-score **99.42%**
 
-🔗 **[View project-dl →](https://github.com/Bouchask/project-dl)**
+→ **[project-dl](https://github.com/Bouchask/project-dl)**
 
 ---
 
-### 🧠 4. AI Security & Real-Time LLM Systems
+### 4. AI Security / SIEM — Real-Time LLM Processing
+
 **Wazuh · Apache Kafka · Ollama · LLMs · Flask · REST APIs**
 
-A security-focused academic project exploring real-time security alert processing, Kafka streaming and local LLM-based classification of Wazuh events.
+A security-focused AI system exploring real-time security event processing, Kafka streaming and local LLM-based analysis of Wazuh alerts.
 
-This project represents my interest in applying **LLMs to operational systems**, not only standalone model experiments.
+The project demonstrates how LLMs can be integrated into operational pipelines instead of being used only as standalone chat interfaces.
 
-🔗 **[View SIEM project →](https://github.com/Bouchask/siam-stage)**
-
----
-
-### 👁️ 5. Applied Computer Vision Platform
-**YOLOv8 · ArcFace · FAISS · Flask · Computer Vision**
-
-An applied AI attendance system combining face detection, face recognition and vector similarity search behind a REST API.
-
-It demonstrates the integration of **Computer Vision models with backend engineering and deployable APIs**.
-
-🔗 **[View project →](https://github.com/Bouchask/Portail_IA)**
+→ **[siam-stage](https://github.com/Bouchask/siam-stage)**
 
 ---
 
-## 🧪 Academic Foundations
+### 5. Computer Vision Attendance System
 
-My academic work also covers **Machine Learning, Deep Learning, NLP, Computer Vision, clustering, data preprocessing and database systems**.
+**YOLO · Face Recognition · ArcFace · FAISS · Flask · REST API**
 
-Selected work includes:
+An applied Computer Vision system combining face detection, face embeddings and vector similarity search behind a backend API for automated attendance workflows.
 
-- **Machine Learning:** supervised learning pipelines, preprocessing and model comparison
-- **Unsupervised Learning:** PCA, K-Means, GMM and clustering evaluation
-- **Deep Learning:** CNNs, sequence models and neural network architectures
-- **NLP:** Transformer-based sentiment analysis
-- **Computer Vision:** face embeddings, detection and clustering
-- **Information Systems:** Oracle, PL/SQL, SQL, database design and business logic
-
-These projects form the technical foundation behind my current focus on AI engineering and Generative AI.
+→ **[Portail_IA](https://github.com/Bouchask/Portail_IA)**
 
 ---
 
-## 🛠️ Technical Stack
+### 6. Mathematical Clustering Analysis
+
+**Python · scikit-learn · K-Means · GMM · PCA · Statistics**
+
+A Master-level unsupervised learning project focused on principled selection of the number of clusters using multiple geometric, statistical and probabilistic criteria.
+
+The work combines **Silhouette, Calinski-Harabasz, Davies-Bouldin, BIC and consensus-based model selection**, with PCA used separately for visualization.
+
+→ **[clustring](https://github.com/Bouchask/clustring)**
+
+---
+
+## Technical Profile
 
 ### AI / Machine Learning
-`Python` · `PyTorch` · `TensorFlow/Keras` · `scikit-learn` · `Pandas` · `NumPy` · `OpenCV`
+`Python` · `PyTorch` · `TensorFlow/Keras` · `scikit-learn` · `Pandas` · `NumPy` · `SciPy` · `OpenCV`
 
-### Generative AI / LLM / Agents
+### Generative AI / LLMs / Agents
 `Qwen` · `Ollama` · `LLMs` · `AI Agents` · `MCP` · `RAG` · `Prompt Engineering` · `TTS` · `Generative Vision`
 
-### Backend / Software Engineering
-`FastAPI` · `Flask` · `REST APIs` · `React` · `TypeScript` · `Docker` · `Git`
+### Backend / Engineering
+`FastAPI` · `Flask` · `REST APIs` · `React` · `TypeScript` · `Docker` · `Git` · `Linux`
 
 ### Data / Databases
 `SQL` · `Oracle` · `PL/SQL` · `PostgreSQL` · `SQLite`
 
+### Foundations
+`Machine Learning` · `Deep Learning` · `NLP` · `Computer Vision` · `Statistics` · `Mathematics` · `Data Engineering`
+
 ---
 
-## 🎓 Education
+## Education
 
 **Master Excellence — Systèmes d'Information et Intelligence Artificielle (SIIA)**  
 Université Sultan Moulay Slimane · Faculté Polydisciplinaire de Khouribga · **2025–Present**
 
 Relevant areas: Advanced Machine Learning, Advanced Deep Learning, Generative AI, Python for Data Science, NLP, Big Data, Oracle/Advanced Databases, Statistics & Mathematics and Information Systems.
 
-**Licence Excellence — SIIA** · Université Sultan Moulay Slimane · **2024–2025**  
-**Mention Bien (Good)**
+**Licence Excellence — Systèmes d'Information et Intelligence Artificielle (SIIA)**  
+Université Sultan Moulay Slimane · **2024–2025** · **Mention Bien**
 
-**BTS — Développement des Systèmes d'Information** · **2022–2024**  
-**Mention Très Bien (Very Good)**
-
----
-
-## 💼 Experience
-
-**Web Development Intern — OCP Phosboucraa**  
-Built a medical appointment management system using **Laravel, Tailwind CSS and MySQL**, covering design, development and deployment.
+**BTS — Développement des Systèmes d'Information** · **2022–2024** · **Mention Très Bien**
 
 ---
 
-## 🎯 Internship Objective
+## Experience
 
-### 🔎 PFE — February 2027
+**Web Development Intern — OCP Phosboucraa**
 
-I am looking for a **5-month end-of-studies internship starting February 2027**.
-
-**Preferred areas:**
-
-- **AI Engineering**
-- **Generative AI / GenAI**
-- **LLM Engineering**
-- **AI Agents / Agentic AI**
-- **Machine Learning Engineering**
-- **Data Science**
-- **Applied AI / R&D**
-
-**Location:** Morocco · France · Canada · International
-
-I am particularly interested in teams building **practical AI products, intelligent automation, LLM applications and production-oriented AI systems**.
-
-📩 **Open to PFE opportunities, internships and AI-focused collaborations.**
+Developed a medical appointment management system using **Laravel, Tailwind CSS and MySQL**, covering application design, implementation and deployment.
 
 ---
 
-## 📚 Current Direction
+## Engineering Philosophy
+
+I am interested in the complete AI engineering lifecycle:
 
 ```text
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-Generative AI
-      ↓
-LLMs
-      ↓
-AI Agents + MCP
-      ↓
-Production-Oriented AI Systems
+Data
+ ↓
+Model
+ ↓
+Evaluation
+ ↓
+LLM / Agent
+ ↓
+Tools + APIs
+ ↓
+Backend
+ ↓
+Deployment
+ ↓
+Real-world AI System
 ```
 
-My goal is to grow as an **AI Engineer** capable of designing, implementing, evaluating and integrating complete AI systems — from models and agents to APIs and applications.
+My objective is to become an **AI Engineer capable of designing, implementing, evaluating and integrating complete intelligent systems**, rather than working only on isolated notebooks or model experiments.
+
+---
+
+## What I Am Looking For
+
+🇫🇷 **France — PFE / Stage de fin d'études — February 2027**
+
+I am interested in:
+
+- AI Engineering
+- Generative AI / GenAI
+- LLM Engineering
+- Agentic AI / AI Agents
+- Machine Learning Engineering
+- Applied Data Science
+- Computer Vision / NLP
+- AI R&D
+
+If your team is building practical AI systems, LLM applications, intelligent automation or production-oriented ML solutions, I would be happy to connect.
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
+## Let's Connect
 
 **AI · GenAI · LLMs · Agents · Machine Learning · Applied AI**
 
-<a href="https://linkedin.com/in/yahyabouchak">LinkedIn</a> · <a href="https://bouchak-yahya.vercel.app/">Portfolio</a> · <a href="mailto:mr.bouchakyahya@gmail.com">Email</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Banner"/>
+[LinkedIn](https://linkedin.com/in/yahyabouchak) · [Portfolio](https://bouchak-yahya.vercel.app/) · [Email](mailto:mr.bouchakyahya@gmail.com)
 
 </div>
