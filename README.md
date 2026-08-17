@@ -5,7 +5,7 @@
 ### AI Engineer · Generative AI · LLMs · AI Agents · Machine Learning
 
 **Master's Student in Information Systems & Artificial Intelligence (SIIA)**  
-🇲🇦 Morocco · **Open to 5-month PFE opportunities in France from February 2027**
+🇲🇦 Morocco · **Open to PFE / AI Internship Opportunities**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://bouchak-yahya.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yahyabouchak)
@@ -21,9 +21,11 @@ I am a **Master's student in Information Systems & Artificial Intelligence (SIIA
 
 My main areas are **Generative AI, LLM applications, AI Agents, Machine Learning, Deep Learning and Applied AI**. I am particularly interested in systems that connect models with **tools, data, APIs, databases and real-world workflows**.
 
-### PFE Target — France 🇫🇷
+### Internship / PFE Opportunities
 
-I am looking for a **5-month end-of-studies internship starting February 2027**, with priority for opportunities in **France**.
+I am currently looking for **PFE, end-of-studies internship and AI internship opportunities**.
+
+I am open to opportunities **in Morocco, France, Europe, Canada and internationally**, depending on the role, team and project.
 
 **Target roles:**
 - AI Engineer / Applied AI Engineer
@@ -218,9 +220,7 @@ My objective is to become an **AI Engineer capable of designing, implementing, e
 
 ## What I Am Looking For
 
-🇫🇷 **France — PFE / Stage de fin d'études — February 2027**
-
-I am interested in:
+I am open to **PFE, end-of-studies internships, AI internships and junior opportunities** related to:
 
 - AI Engineering
 - Generative AI / GenAI
@@ -230,6 +230,8 @@ I am interested in:
 - Applied Data Science
 - Computer Vision / NLP
 - AI R&D
+
+**Location:** Morocco · France · Europe · Canada · International
 
 If your team is building practical AI systems, LLM applications, intelligent automation or production-oriented ML solutions, I would be happy to connect.
 
