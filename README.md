@@ -7,7 +7,7 @@
 **Master's Student in Information Systems & Artificial Intelligence (SIIA)**  
 🇲🇦 Morocco · **Open to PFE / AI Internship Opportunities**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://bouchak-yahya.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://yahya.ink/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yahyabouchak)
 [![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mr.bouchakyahya@gmail.com)
 
